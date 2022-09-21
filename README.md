@@ -1,5 +1,6 @@
-<center> # ALL-PROGRAMMING-RESOURCES-&-NOTES </center>
-This is my personal Note And I Through this note's going to help others people as well so if you find anything useful Please let me know, just give me a star if you want And this note is going to update every time, So Stay tuned, thanks!
+<h1 align="center">ALL-PROGRAMMING-RESOURCES-&-NOTES</h1>
+<h2 align="center">This is my personal Note And I Through this note's going to help others people as well so if you find anything useful Please let me know, just give me a star if you want And this note is going to update every time, So Stay tuned, thanks!</h2>
+
 
 ###  Free Bangla Resources  ❤
    #### ✅ <a href="#courses">Courses</a>  
