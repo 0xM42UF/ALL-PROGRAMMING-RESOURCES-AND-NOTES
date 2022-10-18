@@ -1,4 +1,5 @@
 <h1 align="center">ALL-PROGRAMMING-RESOURCES-&-NOTES</h1>
+## :octocat: Do Fork And :eight_pointed_black_star: Give Star This Repo
 <h2 align="center">This is my personal Note And I Through this note's going to help others people as well so if you find anything useful Please let me know, just give me a star if you want And this note is going to update every time, So Stay tuned, thanks!</h2>
 
 
